@@ -16,6 +16,8 @@ Summary of useful 'git' commands.
 * 'git branch someBranch' - create branch 'someBranch'
 * 'git checkout someBranch' - move to 'someBranch'
 * 'git checkout -b otherBranch' - Create and checkout 'otherBranch'
+* 'git pull origin main' - Pull remote 'main' into current branch
+* 'git push origin newBranch' - Push current committed branch to remote
 
 ### Remote Commands
 * 'git remote add origin URL' - Set remote repo alias 'origin' for github 'URL'
