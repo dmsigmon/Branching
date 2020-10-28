@@ -1,4 +1,6 @@
-## Git Cheatsheet
+## Git Cheat Sheet
+
+Summary of useful 'git' commands.
 
 ### Basic Commands
 * 'git init' - initialize local git repository
@@ -7,7 +9,7 @@
 * 'git commit -m" some message"' - commit current work to local repository
 * 'git log' - show git commit history
 * ' git log --oneline' - show git commit history(compact)
-
+* 'git config -l' - list git configuration
 
 ### Branching Commands
 * 'git branch' - list branches in current repository
