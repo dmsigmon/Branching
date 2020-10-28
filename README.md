@@ -11,5 +11,6 @@
 
 ### Branching Commands
 * 'git branch' - list branches in current repository
-* ' git branch someBranch' - create branch 'someBranch'
-* 'git checkout someBranch' - changes to 'someBranch'
+* 'git branch someBranch' - create branch 'someBranch'
+* 'git checkout someBranch' - move to 'someBranch'
+* 'git checkout -b otherBranch' - Create and checkout 'otherBranch'
