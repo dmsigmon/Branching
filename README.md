@@ -14,3 +14,6 @@
 * 'git branch someBranch' - create branch 'someBranch'
 * 'git checkout someBranch' - move to 'someBranch'
 * 'git checkout -b otherBranch' - Create and checkout 'otherBranch'
+
+### Remote Commands
+* 'git remote add origin URL' - Set remote repo alias 'origin' for github 'URL'
