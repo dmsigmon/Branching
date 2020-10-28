@@ -5,3 +5,11 @@
 * 'git status' - Show status of working directory
 * 'git add .' - Add everyThe thing in current directory to git index
 * 'git commit -m" some message"' - commit current work to local repository
+* 'git log' - show git commit history
+* ' git log --oneline' - show git commit history(compact)
+
+
+### Branching Commands
+* 'git branch' - list branches in current repository
+* ' git branch someBranch' - create branch 'someBranch'
+* 'git checkout someBranch' - changes to 'someBranch'
