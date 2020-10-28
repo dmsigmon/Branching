@@ -7,3 +7,4 @@ Summary of useful 'git' commands.
 * 'git status' - Show status of working directory
 * 'git add .' - Add everyThe thing in current directory to git index
 * 'git commit -m" some message"' - commit current work to local repository
+* 'git config -l' - list git configuration
